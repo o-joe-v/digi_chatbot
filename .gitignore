@@ -1,0 +1,6 @@
+/backup/*
+/venv/*
+/src/*
+/.vscode/*
+.env
+loan.json
