@@ -2,5 +2,5 @@
 /venv/*
 /src/*
 /.vscode/*
-.env
+/.env
 loan.json

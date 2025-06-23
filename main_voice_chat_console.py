@@ -5,10 +5,6 @@ import streamlit as st
 from dotenv import load_dotenv
 import speech_recognition as sr
 from datetime import datetime
-import io
-import time
-import threading
-from queue import Queue
 import logging
 import pyaudio
 import wave
